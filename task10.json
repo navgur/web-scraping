@@ -1,0 +1,44 @@
+{
+      "Madhavan": {
+            "Hindi": 1,
+            "Tamil": 1,
+            "Telugu": 1,
+            "English": 1,
+            "Kannada": 1,
+            "Malayalam": 1
+      },
+      "Sundar C.": {
+            "Tamil": 1
+      },
+      "Hrishikesh Mukherjee": {
+            "Hindi": 1
+      },
+      "T.J. Gnanavel": {
+            "Tamil": 1,
+            "Hindi": 1,
+            "Telugu": 1
+      },
+      "Mani Ratnam": {
+            "Tamil": 1
+      },
+      "Mari Selvaraj": {
+            "Tamil": 1
+      },
+      "Rajkumar Hirani": {
+            "Hindi": 1,
+            "English": 1
+      },
+      "Satyajit Ray": {
+            "Bengali": 1
+      },
+      "Fazil": {
+            "Malayalam": 1
+      },
+      "Madhu C. Narayanan": {
+            "Malayalam": 1
+      },
+      "Anurag Kashyap": {
+            "Hindi": 1,
+            "English": 1
+      }
+}
